@@ -11,36 +11,25 @@
     "version": "",
     "try-creative": false
   },
-  
-"position": {
-  "enabled": false,
-  "x": 0,
-  "y": 100,
-  "z": 0
-},
-"utils": {
-  "anti-afk": {
+  "position": {
     "enabled": false,
-    "sneak": false
-  }
-},
-"movement": {
-  "enabled": false,
-  "circle-walk": {
-    "enabled": false,
-    "radius": 4,
-    "speed": 3000
+    "x": 0,
+    "y": 100,
+    "z": 0
   },
-  "look-around": {
-    "enabled": false,
-    "interval": 5000
+  "utils": {
+    "anti-afk": {
+      "enabled": false,
+      "sneak": false
+    }
   },
-  "random-jump": {
+  "movement": {
     "enabled": false,
-    "interval": 10000
-  }
-}
-
+    "circle-walk": {
+      "enabled": false,
+      "radius": 4,
+      "speed": 3000
+    },
     "look-around": {
       "enabled": false,
       "interval": 5000
@@ -77,4 +66,4 @@
   "chat": {
     "respond": true
   }
-
+}
