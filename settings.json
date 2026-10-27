@@ -12,43 +12,36 @@
     "version": "",
     "try-creative": false
   },
-  "position": {
+  
+"position": {
+  "enabled": false,
+  "x": 0,
+  "y": 100,
+  "z": 0
+},
+"utils": {
+  "anti-afk": {
     "enabled": false,
-    "x": 0,
-    "y": 100,
-    "z": 0
-  },
-  "utils": {
-    "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
-    },
-    "anti-afk": {
-      "enabled": false,
-      "sneak": false
-    },
-    "chat-messages": {
-      "enabled": false,
-      "repeat": false,
-      "repeat-delay": 120,
-      "messages": [
-        "Aku adalah bot anti afk",
-        "GASKEUN!",
-        "I like to play Minecraft!"
-      ]
-    },
-    "chat-log": true,
-    "auto-reconnect": true,
-    "auto-reconnect-delay": 5000,
-    "max-reconnect-delay": 120000
-  },
-  "movement": {
+    "sneak": false
+  }
+},
+"movement": {
+  "enabled": false,
+  "circle-walk": {
     "enabled": false,
-    "circle-walk": {
-      "enabled": false,
-      "radius": 4,
-      "speed": 3000
-    },
+    "radius": 4,
+    "speed": 3000
+  },
+  "look-around": {
+    "enabled": false,
+    "interval": 5000
+  },
+  "random-jump": {
+    "enabled": false,
+    "interval": 10000
+  }
+}
+
     "look-around": {
       "enabled": false,
       "interval": 5000
