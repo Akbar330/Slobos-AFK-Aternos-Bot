@@ -8,7 +8,7 @@
   "server": {
     "ip": "rewog.aternos.me",
     "port": 35524,
-    "version": "",
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Aku adalah bot anti afk",
+        "GASKEUN!",
         "I like to play Minecraft!"
       ]
     },
