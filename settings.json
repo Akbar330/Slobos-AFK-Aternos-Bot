@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "REWOG.ID AFK BOT",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "rewog.aternos.me",
+    "ip": "huron.aternos.host",
     "port": 35524,
     "version": "",
     "try-creative": false
