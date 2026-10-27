@@ -1,4 +1,3 @@
-
 {
   "name": "REWOG.ID AFK BOT",
   "bot-account": {
@@ -78,4 +77,4 @@
   "chat": {
     "respond": true
   }
-}
+
